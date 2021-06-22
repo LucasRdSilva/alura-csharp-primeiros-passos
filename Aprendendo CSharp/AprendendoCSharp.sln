@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-PrimeiroProjeto", "1-PrimeiroProjeto\1-PrimeiroProjeto.csproj", "{5B9A5297-D65F-4FA8-ACBC-0FBD994A9F36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{23934C3D-7EEF-4622-9A87-6CF714CBB5EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{23934C3D-7EEF-4622-9A87-6CF714CBB5EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{EF1A98A8-AA7D-4337-B4F6-9551752E8047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{EF1A98A8-AA7D-4337-B4F6-9551752E8047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTiposNumericos", "4-ConversoesEOutrosTiposNumericos\4-ConversoesEOutrosTiposNumericos.csproj", "{045A6C51-F02E-406C-94C8-67F7A071053B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EF1A98A8-AA7D-4337-B4F6-9551752E8047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF1A98A8-AA7D-4337-B4F6-9551752E8047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF1A98A8-AA7D-4337-B4F6-9551752E8047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045A6C51-F02E-406C-94C8-67F7A071053B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045A6C51-F02E-406C-94C8-67F7A071053B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045A6C51-F02E-406C-94C8-67F7A071053B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045A6C51-F02E-406C-94C8-67F7A071053B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
