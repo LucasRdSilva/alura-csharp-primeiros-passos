@@ -1,5 +1,6 @@
 # Alura Cursos - Formação C# e Orientação a Objetos
+# Parte 1 - Primeiros passos
 * Repositório para registro de aprenzagem no curso.
 
-## Link da Formação (Lista de Cursos, necessário assinatura Alura):
--> https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos
+## Link do curso (necessário assinatura Alura):
+-> https://cursos.alura.com.br/course/csharp-parte-1-primeiros-passos
